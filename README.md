@@ -12,5 +12,5 @@ CSS-JS-HTML
 
 <h2> Screenshot <h2>
 
-![Restaurant Screenshot](/restaurant.gif)
+![Restaurant Screenshot](restaurant.gif)
 
